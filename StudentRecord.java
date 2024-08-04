@@ -147,6 +147,7 @@ public class StudentRecord {
 
                 case 4:
                     System.out.println("Exiting...");
+                    System.out.println("23ce145");
                     scanner.close();
                     return; // End the program
 
