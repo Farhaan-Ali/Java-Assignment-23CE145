@@ -159,6 +159,7 @@ public class CourseEnrollment {
                     break;
                 case 4:
                     System.out.println("Exiting...");
+                    System.out.println("23ce145");
                     scanner.close();
                     System.exit(0);
                 default:
